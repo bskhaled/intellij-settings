@@ -1,5 +1,6 @@
 <templateSet group="Symfony">
-  <template name="test" value="test test" toReformat="false" toShortenFQNames="true">
+  <template name="c-render" value="return $this-&gt;render('$FILE_TWIG$', array(&#10;&#10;));" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_TWIG" expression="classNameComplete()" defaultValue="&quot;@app/index.html.twig&quot;" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
