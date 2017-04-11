@@ -9,4 +9,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="test3" value="test3 test3" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
