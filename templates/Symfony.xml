@@ -1,6 +1,6 @@
 <templateSet group="Symfony">
   <template name="c-render" value="return $this-&gt;render('$BUNDLE$', array(&#10;    &#10;));" toReformat="false" toShortenFQNames="true">
-    <variable name="BUNDLE" expression="classNameComplete()" defaultValue="&quot;AppBundle:Entity&quot;" alwaysStopAt="true" />
+    <variable name="BUNDLE" expression="classNameComplete()" defaultValue="&quot;@App/index.html.twig&quot;" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
