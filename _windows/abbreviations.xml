@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="com.jetbrains.php.composer.addDependency.ComposerAddDependencyAction">
+        <abbreviation name="squizlabs/php_codesniffer=*" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
