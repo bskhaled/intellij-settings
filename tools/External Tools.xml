@@ -2,7 +2,7 @@
   <tool name="php-cs-fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$PhpExecutable$" />
-      <option name="PARAMETERS" value="C:\bin\php-cs-fixer-v2.phar   --verbose fix  $FileDir$/$FileName$" />
+      <option name="PARAMETERS" value="E:\kbenslama\web\Final-Safe-web\src\bin\php-cs-fixer.phar   --verbose fix  $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
