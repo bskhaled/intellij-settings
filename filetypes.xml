@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="Nouveau document" type="XML" />
       <mapping pattern="test" type="XML" />
     </extensionMap>
   </component>
